@@ -1,22 +1,23 @@
-<font size="6">**Family Golf Club Website**
+<font size="10">**Family Golf Club Website**
 Welcome to the Family Golf Club website repository! This project is a front-end dominant web application designed to provide an engaging and user-friendly experience for our golf club members and visitors.
 ------------------------------------------------------------------------------------------------------------------------------
-**Features**
+**Features**♾♾
 
-_Responsive Design: Ensures a seamless experience across all devices, from desktops to mobile phones.
+✅Responsive Design: Ensures a seamless experience across all devices, from desktops to mobile phones.
 
-Interactive Gallery: Showcases stunning images of our golf course and club events.
+✅Interactive Gallery: Showcases stunning images of our golf course and club events.
 
-Event Calendar: Lists upcoming events with details and allows members to RSVP directly through the website.
+✅Event Calendar: Lists upcoming events with details and allows members to RSVP directly through the website.
 
-Member Portal: Secure login for members to access exclusive content, book tee times, and manage their profiles.
+✅Member Portal: Secure login for members to access exclusive content, book tee times, and manage their profiles.
 
-Course Map: Interactive map providing detailed information about each hole on the course
+✅Course Map: Interactive map providing detailed information about each hole on the course
 
-Contact and Feedback Forms: Easy-to-use forms for inquiries and feedback to improve member engagement._
+✅Contact and Feedback Forms: Easy-to-use forms for inquiries and feedback to improve member engagement._
 
 --------------------------------------------------------------------------------------------------------------------------------
 ## Technologies Used
+✌✌✌
 
 - **HTML:** Structure the content of the webpage.
 - **CSS:** Style the layout and enhance visual aesthetics.
