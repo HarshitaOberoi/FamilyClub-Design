@@ -1,6 +1,6 @@
-**Family Golf Club Website**
+<font size="6">**Family Golf Club Website**
 Welcome to the Family Golf Club website repository! This project is a front-end dominant web application designed to provide an engaging and user-friendly experience for our golf club members and visitors.
-
+------------------------------------------------------------------------------------------------------------------------------
 **Features**
 
 _Responsive Design: Ensures a seamless experience across all devices, from desktops to mobile phones.
@@ -15,7 +15,13 @@ Course Map: Interactive map providing detailed information about each hole on th
 
 Contact and Feedback Forms: Easy-to-use forms for inquiries and feedback to improve member engagement._
 
+--------------------------------------------------------------------------------------------------------------------------------
+## Technologies Used
 
+- **HTML:** Structure the content of the webpage.
+- **CSS:** Style the layout and enhance visual aesthetics.
+- **JavaScript:** Add interactivity and dynamic behavior.
+- **GSAP (GreenSock Animation Platform):** Implement smooth animations and transitions.</font>
 
 https://github.com/HarshitaOberoi/FamilyClub-Design/assets/154910521/d470f3ec-a68f-44cf-8d86-e5ce3586d6c1
 
@@ -25,9 +31,4 @@ https://github.com/HarshitaOberoi/FamilyClub-Design/assets/154910521/d470f3ec-a6
 
 
 
-## Technologies Used
 
-- **HTML:** Structure the content of the webpage.
-- **CSS:** Style the layout and enhance visual aesthetics.
-- **JavaScript:** Add interactivity and dynamic behavior.
-- **GSAP (GreenSock Animation Platform):** Implement smooth animations and transitions.
